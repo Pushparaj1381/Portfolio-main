@@ -665,11 +665,16 @@ margin: 0px;
   .information .info-box span {
     font-size: 1rem;
   }
-
+.home-text h2{
+  font-size: 17px;
+  font-family: cursive;
+}
   .contact-form form {
     width: 300px;
   }
-
+.ftco-section{
+  padding-top: 2px;
+}
   .contact-button {
     margin-left: 25%;
   }
