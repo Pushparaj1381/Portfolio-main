@@ -645,15 +645,11 @@ margin: 0px;
   }
   .social{
     position: relative;
-    left: 150px;
-    top: 150px;
+    left: 120px;
+    top: 120px;
     size: 10px;
     display: flex;
     flex-direction: row;
-  }
-
-  .social a{
-    size: 30px;
   }
 
   .home-text{
@@ -661,6 +657,7 @@ margin: 0px;
     margin-left: 0px;
     padding-left: 0px;
     padding-top: 30px;
+    padding-right: 0px;
     position: relative;
     font-weight: 400;
   }
@@ -684,6 +681,7 @@ margin: 0px;
     border-radius: 50%;
     justify-content: center;
   }
+
 }
 @media (max-width: 340px) {
   :root {
