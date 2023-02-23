@@ -615,8 +615,9 @@ margin: 0px;
     display: flex;
     justify-content: center;
     justify-self: center;
+    position: relative;
+    right: 35px;
   }
-
   .contact-form form {
     width: 300px;
   }
@@ -680,6 +681,10 @@ margin: 0px;
   img{
     border-radius: 50%;
     justify-content: center;
+  }
+  .skills-img{
+    position: relative;
+    right: 20px;
   }
 
 }
